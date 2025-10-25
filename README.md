@@ -1,7 +1,7 @@
 
 # Sysfoo Application
 
-A Devops Learning App 
+A DEVOPS Learning app useful for CI implementation 
 
 ## About the Application
 
